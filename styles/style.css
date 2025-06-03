@@ -1,11 +1,84 @@
-body {
-  background-color: white;
+@charset "UTF8";
+* {
 }
-
-main {
-  font-family: Helvetica, sans-serif;
-  font-size: small;
+header {
   text-align: center;
-  color: white;
-  background-color: rgba(101, 180, 228);
+  font-size: 12px;
+  background-color: #1d62e0;
+  color: #343b47;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", monospace;
+  font-size: 2.5em;
+  text-shadow: 1px 1px 1px rgba(8, 8, 8, 0.303);
+  padding: 1px 1px 1px 1px;
+}
+body {
+  background-color: #6495ed;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  text-align: center;
+}
+footer {
+}
+main {
+}
+div {
+  display: inline-block;
+  margin: 10px;
+}
+.especial:hover {
+  color: rgba(0, 6, 189, 0.8);
+}
+.fornecedores {
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 3px 3px 5px black;
+  width: 200px;
+  height: 240px;
+  font-weight: bold;
+  padding: 2px;
+}
+.vendedores {
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 3px 3px 5px black;
+  width: 200px;
+  height: 240px;
+  font-weight: bold;
+  padding: 2px;
+}
+.estoque {
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 3px 3px 5px black;
+  width: 200px;
+  height: 240px;
+  font-weight: bold;
+  padding: 2px;
+}
+.vendas {
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 3px 3px 3px black;
+  width: 200px;
+  height: 240px;
+  font-weight: bold;
+  padding: 2px;
+}
+.relatorios {
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 3px 3px 3px black;
+  width: 200px;
+  height: 240px;
+  font-weight: bold;
+  padding: 2px;
 }
