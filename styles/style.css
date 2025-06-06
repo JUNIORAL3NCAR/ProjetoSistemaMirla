@@ -36,7 +36,7 @@ div {
   border: 2px solid black;
   border-radius: 10px;
   background-color: white;
-  box-shadow: 3px 3px 5px black;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.395);
   width: 200px;
   height: 240px;
   font-weight: bold;
@@ -46,7 +46,7 @@ div {
   border: 2px solid black;
   border-radius: 10px;
   background-color: white;
-  box-shadow: 3px 3px 5px black;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.395);
   width: 200px;
   height: 240px;
   font-weight: bold;
@@ -56,7 +56,7 @@ div {
   border: 2px solid black;
   border-radius: 10px;
   background-color: white;
-  box-shadow: 3px 3px 5px black;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.395);
   width: 200px;
   height: 240px;
   font-weight: bold;
@@ -66,7 +66,7 @@ div {
   border: 2px solid black;
   border-radius: 10px;
   background-color: white;
-  box-shadow: 3px 3px 3px black;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.395);
   width: 200px;
   height: 240px;
   font-weight: bold;
@@ -76,7 +76,7 @@ div {
   border: 2px solid black;
   border-radius: 10px;
   background-color: white;
-  box-shadow: 3px 3px 3px black;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.395);
   width: 200px;
   height: 240px;
   font-weight: bold;
